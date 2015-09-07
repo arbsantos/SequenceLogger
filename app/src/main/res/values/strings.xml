@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sequence Logger</string>
+    <string name="warning">When the service is active every selection sequence you make (except for keystrokes) is saved locally. \n
+    To send us your log file use the sync button. </string>
+    <string name="sync">Sync</string>
+
+
+</resources>
